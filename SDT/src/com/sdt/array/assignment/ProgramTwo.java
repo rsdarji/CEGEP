@@ -6,6 +6,7 @@ import java.util.Scanner;
 /**
  * 
  * @author Ravi Find duplicate number in Array
+ * 
  */
 public class ProgramTwo {
 	public static void main(String[] args) {
